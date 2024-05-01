@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#transcription {
+    margin-top: 20px;
+}
+
+.custom-padding {
+  padding-top: 20px;
+   /* Adjust the padding as needed */
+}
